@@ -46,8 +46,8 @@ and creating <b>web applications</b>.
 </p>
 
 <ul>
-  <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python development</li>
-  <li><img src="https://skillicons.dev/icons?i=discord,telegram" height="20" /> Telegram & Discord bot development (Aiogram)</li>
+  <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python development (Aiogram)</li>
+  <li><img src="https://skillicons.dev/icons?i=discord,python" height="20" /> Telegram & Discord bot development</li>
   <li><img src="https://skillicons.dev/icons?i=html,css,js" height="20" /> Web applications</li>
   <li><img src="https://skillicons.dev/icons?i=fastapi,flask" height="20" /> API integrations</li>
   <li><img src="https://skillicons.dev/icons?i=git" height="20" /> Continuous learning</li>
@@ -58,12 +58,12 @@ and creating <b>web applications</b>.
 <h3 align="left">🛠 Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,discord,telegram,fastapi,flask,html,css,js,git,postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,discord,vscode,linux,ubuntu,pycharm,fastapi,flask,html,css,js,git,postgres" height="40" />
 </div>
 
 <ul>
-  <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python</li>
-  <li><img src="https://skillicons.dev/icons?i=discord,telegram" height="20" /> Aiogram / Discord.py</li>
+  <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python / Aiogram</li>
+  <li><img src="https://skillicons.dev/icons?i=discord,python" height="20" /> Discord.py / Telegram bots</li>
   <li><img src="https://skillicons.dev/icons?i=fastapi,flask" height="20" /> FastAPI / Flask</li>
   <li><img src="https://skillicons.dev/icons?i=html,css,js" height="20" /> HTML / CSS / JS</li>
   <li><img src="https://skillicons.dev/icons?i=git" height="20" /> Git</li>
