@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/arhkypGitProject" target="_blank">
