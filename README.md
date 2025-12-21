@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="assets/profile.gif" 
-    width="600" 
+    width="700" 
     alt="Profile GIF"
     style="max-width:100%;"
   />
