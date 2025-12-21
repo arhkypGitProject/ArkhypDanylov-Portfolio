@@ -72,6 +72,14 @@ and creating <b>web applications</b>.
 
 ###
 
+<h3 align="left">📌 Projects:</h3>
+<div align="center" style="border: 2px solid #4A90E2; border-radius: 10px; padding: 20px; max-width: 700px; background-color: #f5f5f5;">
+  <ul>
+  </ul>
+</div>
+
+###
+
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
