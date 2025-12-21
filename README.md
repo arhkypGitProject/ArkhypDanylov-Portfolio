@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">Hi 💻 I'm Arkhip</h1>
+<h1 align="center">Hi 💻 I'm Arkhyp</h1>
 
 ###
 
