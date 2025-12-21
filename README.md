@@ -1,22 +1,20 @@
 <br clear="both">
 
-<!-- GIF -->
 <div align="center">
   <img 
-    height="300" 
+    src="assets/profile.gif" 
     width="600" 
-    src="https://media.tenor.com/-YjI6cTN4nEAAAAC/va-11-hall-a.gif" 
-    alt="VA-11 Hall-A pixel art gif"
+    alt="Profile GIF"
+    style="max-width:100%;"
   />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋 I'm Arkhip</h1>
+<h1 align="center">Hi 💻 I'm Arkhip</h1>
 
 ###
 
-<!-- Social buttons -->
 <div align="center">
   <a href="https://t.me/your_telegram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
@@ -28,14 +26,13 @@
 
 ###
 
-<!-- Visitor counter -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arhkypGitProject.arhkypGitProject" />
 </div>
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">🖥 About Me</h3>
 
 <p align="left">
 I started exploring and getting interested in IT in 2022.
@@ -49,11 +46,11 @@ and creating <b>web applications</b>.
 </p>
 
 <ul>
-  <li>🐍 Python development</li>
-  <li>🤖 Telegram & Discord bot development</li>
-  <li>🌐 Web applications</li>
-  <li>📦 API integrations</li>
-  <li>📚 Continuous learning & practice</li>
+  <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python development</li>
+  <li><img src="https://skillicons.dev/icons?i=discord,telegram" height="20" /> Telegram & Discord bot development (Aiogram)</li>
+  <li><img src="https://skillicons.dev/icons?i=html,css,js" height="20" /> Web applications</li>
+  <li><img src="https://skillicons.dev/icons?i=fastapi,flask" height="20" /> API integrations</li>
+  <li><img src="https://skillicons.dev/icons?i=git" height="20" /> Continuous learning</li>
 </ul>
 
 ###
@@ -61,39 +58,33 @@ and creating <b>web applications</b>.
 <h3 align="left">🛠 Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,git,postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,discord,telegram,fastapi,flask,html,css,js,git,postgres" height="40" />
 </div>
 
 <ul>
-  <li><b>Python</b> — main programming language</li>
-  <li><b>Aiogram / discord.py</b> — bot development</li>
-  <li><b>FastAPI / Flask</b> — web applications</li>
-  <li><b>HTML, CSS, JavaScript</b> — frontend basics</li>
-  <li><b>Git</b> — version control</li>
-  <li><b>PostgreSQL</b> — databases</li>
+  <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python</li>
+  <li><img src="https://skillicons.dev/icons?i=discord,telegram" height="20" /> Aiogram / Discord.py</li>
+  <li><img src="https://skillicons.dev/icons?i=fastapi,flask" height="20" /> FastAPI / Flask</li>
+  <li><img src="https://skillicons.dev/icons?i=html,css,js" height="20" /> HTML / CSS / JS</li>
+  <li><img src="https://skillicons.dev/icons?i=git" height="20" /> Git</li>
+  <li><img src="https://skillicons.dev/icons?i=postgres" height="20" /> PostgreSQL</li>
 </ul>
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=arhkypGitProject&theme=dark&border_radius=5" 
-    height="220" 
-    alt="GitHub streak stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhkypGitProject&theme=dark&border_radius=5&fire=FF6F61&currStreakNum=58&currStreakLabel=Current%20Streak&sideLabels=7" height="220" />
 </div>
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=arhkypGitProject&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=arhkypGitProject&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
     height="150" 
-    alt="GitHub stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arhkypGitProject&layout=compact&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arhkypGitProject&layout=compact&theme=radical" 
     height="150" 
-    alt="Top languages"
   />
 </div>
