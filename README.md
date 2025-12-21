@@ -83,8 +83,14 @@ and creating <b>web applications</b>.
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhkypGitProject&theme=dark&border_radius=5&fire=FF6F61&currStreakNum=58&currStreakLabel=Current%20Streak&sideLabels=7" height="220" />
+  <img 
+    src="assets/github-snake.svg" 
+    width="850" 
+    alt="snake"
+    style="max-width:100%;"
+  />
 </div>
+
 
 <div align="center">
   <img 
