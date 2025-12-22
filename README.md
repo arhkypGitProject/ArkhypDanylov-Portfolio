@@ -9,11 +9,7 @@
   />
 </div>
 
-###
-
 <h1 align="center">Hi 💻 I'm Arkhyp</h1>
-
-###
 
 <div align="center">
   <a href="https://t.me/" target="_blank">
@@ -24,13 +20,9 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arhkypGitProject.arhkypGitProject" />
 </div>
-
-###
 
 <h3 align="left">🖥 About Me</h3>
 
@@ -53,8 +45,6 @@ and creating <b>web applications</b>.
   <li><img src="https://skillicons.dev/icons?i=git" height="20" /> Continuous learning</li>
 </ul>
 
-###
-
 <h3 align="left">🛠 Technologies & Tools</h3>
 
 <div align="left">
@@ -73,12 +63,12 @@ and creating <b>web applications</b>.
 ###
 
 <h3 align="left">📌 Projects:</h3>
-<div align="center" style="border: 2px solid #4A90E2; border-radius: 10px; padding: 20px; max-width: 700px; background-color: #f5f5f5;">
-  <ul>
-  </ul>
-</div>
 
-###
+<div align="center" style="border: 2px solid #4A90E2; border-radius: 10px; padding: 20px; max-width: 700px; background-color: #f5f5f5;">
+  <a href="https://github.com/arhkypGitProject/VirusTotal-Cheker-Bot-Telegram" target="_blank">
+    🔐 VirusTotal Checker Telegram Bot
+  </a>
+</div>
 
 <h3 align="left">📊 GitHub Stats</h3>
 
