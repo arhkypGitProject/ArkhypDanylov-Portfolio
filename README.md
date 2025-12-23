@@ -81,11 +81,11 @@ and creating <b>web applications</b>.
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=arhkypGitProject&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=arhkypGitProject&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Bugs"
     height="150" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arhkypGitProject&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arhkypGitProject&layout=compact&theme=radical" alt="Bugs"
     height="150" 
   />
   <img 
