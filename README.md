@@ -88,4 +88,5 @@ and creating <b>web applications</b>.
     src="https://github-readme-stats.vercel.app/api/top-langs?username=arhkypGitProject&layout=compact&theme=radical" 
     height="150" 
   />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=arhkypGitProject&theme=radical" alt="GitHub Streak" /></a>
 </div>
