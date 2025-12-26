@@ -61,10 +61,10 @@ and creating <b>web applications</b>.
 
 <h3 align="left">📌 Projects:</h3>
 
-<div align="center" style="border: 2px solid #4A90E2; border-radius: 10px; padding: 20px; max-width: 700px; background-color: #f5f5f5;">
-  <a href="https://github.com/arhkypGitProject/VirusTotal-Cheker-Bot-Telegram" target="_blank">
-    🔐 VirusTotal Checker Telegram Bot
-  </a>
+<div align="center" style="border: 3px solid #4A90E2; border-radius: 12px; padding: 20px; display: inline-block;">
+  <kbd>🟦 <a href="https://github.com/arhkypGitProject/VirusTotal-Cheker-Bot-Telegram">VirusTotal Checker Bot</a> 🟦</kbd>
+  &nbsp;&nbsp;
+  <kbd>🟨 <a href="https://github.com/arhkypGitProject/Feedback-Bot-Telegram">FeedBack Bot</a> 🟨</kbd>
 </div>
 
 <h3 align="left">📊 GitHub Stats</h3>
