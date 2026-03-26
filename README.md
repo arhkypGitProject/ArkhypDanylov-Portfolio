@@ -34,6 +34,16 @@ Currently, I am focused on <b>Python</b>, developing bots for <b>Telegram and Di
 and creating <b>web applications</b>.
 </p>
 
+<p align="left">
+<b>
+Links:
+  <a href="https://www.fiverr.com/s/Egz6aAy">FIVERR PROFILE</a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/архип-данилов-23b3243ba">LINKEDIN PROFILE</a>
+  &nbsp;&nbsp;
+</b>
+</p>
+
 <ul>
   <li><img src="https://skillicons.dev/icons?i=python" height="20" /> Python development (Aiogram)</li>
   <li><img src="https://skillicons.dev/icons?i=discord,python" height="20" /> Telegram & Discord bot development</li>
