@@ -75,6 +75,8 @@ Links:
   <kbd>🟦 <a href="https://github.com/arhkypGitProject/VirusTotal-Cheker-Bot-Telegram">VirusTotal Checker Bot</a> 🟦</kbd>
   &nbsp;&nbsp;
   <kbd>🟨 <a href="https://github.com/arhkypGitProject/Feedback-Bot-Telegram">FeedBack Bot</a> 🟨</kbd>
+  &nbsp;&nbsp;
+  <kbd>🟩 <a href="https://github.com/arhkypGitProject/basic-parser-example" style="color:white; text-decoration:none;">Basic Parser Example</a> 🟩</kbd>
 </div>
 
 <h3 align="left">📊 GitHub Stats</h3>
