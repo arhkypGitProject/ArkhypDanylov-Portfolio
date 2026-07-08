@@ -41,6 +41,8 @@ Links:
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/архип-данилов-23b3243ba">LINKEDIN PROFILE</a>
   &nbsp;&nbsp;
+  <a href="https://tlgg.ru/@heroinyk">TELEGRAM PROFILE</a>
+  &nbsp;&nbsp;
 </b>
 </p>
 
