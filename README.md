@@ -79,6 +79,8 @@ Links:
   <kbd>🟨 <a href="https://github.com/arhkypGitProject/Feedback-Bot-Telegram">FeedBack Bot</a> 🟨</kbd>
   &nbsp;&nbsp;
   <kbd>🟩 <a href="https://github.com/arhkypGitProject/basic-parser-example" style="color:white; text-decoration:none;">Basic Parser Example</a> 🟩</kbd>
+  &nbsp;&nbsp;
+  <kbd>⬛ <a href="https://github.com/arhkypGitProject/Hosting-a-Python-Telegram-Bot-Without-Webhooks" style="color:white; text-decoration:none;">Documentation: Hosting a Python Telegram Bot</a> ⬛</kbd>
 </div>
 
 <h3 align="left">📊 GitHub Stats</h3>
