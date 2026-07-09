@@ -32,18 +32,21 @@ This helped me build strong problem-solving skills and the ability to learn inde
 <br><br>
 Currently, I am focused on <b>Python</b>, developing bots for <b>Telegram and Discord</b>,
 and creating <b>web applications</b>.
-</p>
-
+  
 <p align="left">
-<b>
-Links:
-  <a href="https://www.fiverr.com/s/Egz6aAy">FIVERR PROFILE</a>
+  <b>Links:</b>
+  <br><br>
+  <a href="https://www.fiverr.com/s/Egz6aAy">
+    <img src="https://img.icons8.com/color/96/fiverr.png" width="45" height="45" alt="Fiverr">
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/архип-данилов-23b3243ba">LINKEDIN PROFILE</a>
+  <a href="https://www.linkedin.com/in/архип-данилов-23b3243ba">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="45" height="45" alt="LinkedIn">
+  </a>
   &nbsp;&nbsp;
-  <a href="https://tlgg.ru/@heroinyk">TELEGRAM PROFILE</a>
-  &nbsp;&nbsp;
-</b>
+  <a href="https://tlgg.ru/@heroinyk">
+    <img src="https://img.icons8.com/color/96/telegram-app.png" width="45" height="45" alt="Telegram">
+  </a>
 </p>
 
 <ul>
