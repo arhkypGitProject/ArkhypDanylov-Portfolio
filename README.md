@@ -3,15 +3,13 @@
 
   <h1>Hi! 👋 I'm Arkhyp</h1>
 
-  <!-- Animated Typing Text -->
   <a href="https://github.com/arhkypGitProject">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;Python+%7C+FastAPI+%7C+Flask;Telegram+%26+Discord+Bot+Creator;Web+Application+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <br>
-  <a href="https://github.com/arhkypGitProject">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=arhkypGitProject.arhkypGitProject" alt="Visitors" />
-  </a>
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=arhkypGitProject&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -40,7 +38,6 @@ I started my journey in IT in 2022 and have been actively exploring new technolo
 
 ### 🚀 My Projects
 
-<!-- Красивая и надежная таблица для проектов -->
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -78,47 +75,25 @@ I started my journey in IT in 2022 and have been actively exploring new technolo
 
 <br>
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <!-- График активности (Добавлен сброс кэша &v=1) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhkypGitProject&theme=radical&hide_border=true&bg_color=141321&v=1" width="100%" alt="Activity Graph" />
+  <img src="https://img.shields.io/github/followers/arhkypGitProject?label=Followers&style=for-the-badge&color=4A90E2&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/arhkypGitProject?style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/repos/personal/arhkypGitProject?style=for-the-badge&color=2EA44F&logo=github&label=Repositories" alt="Repositories" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Основная статистика (Добавлен сброс кэша &v=1) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arhkypGitProject&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&v=1" height="165" alt="Stats" />
-  
-  <!-- Топ языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arhkypGitProject&layout=compact&theme=radical&hide_border=true&v=1" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=arhkypGitProject&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<div align="center">
-  <!-- Виджет серии коммитов -->
-  <img src="https://streak-stats.demolab.com?user=arhkypGitProject&theme=radical&hide_border=true&v=1" height="165" alt="Streak" />
-</div>
-
-<br>
-
-### 🏆 Achievements
-
-<div align="center">
-  <!-- Трофеи -->
-  <img src="https://github-profile-trophy.vercel.app/?username=arhkypGitProject&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&v=1" alt="Trophies" />
-</div>
-
-<div align="center">
-  <!-- Цитата разработчика -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
-<br>
-
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 <div align="center">
   <img src="assets/github-snake.svg" width="850" alt="GitHub Contribution Snake" style="max-width:100%;" />
