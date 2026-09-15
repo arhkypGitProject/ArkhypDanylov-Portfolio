@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=arhkypGitProject&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 I started my journey in IT in 2022 and have been actively exploring new technologies ever since. I am a **self-taught developer** — I learned programming entirely on my own, without courses or bootcamps. This helped me build strong problem-solving skills and the ability to learn independently through practice.
@@ -57,13 +55,22 @@ I started my journey in IT in 2022 and have been actively exploring new technolo
   </tr>
   <tr>
     <td align="center" width="50%">
+      <h3>🔄 FeedBack Bot v2 (Free)</h3>
+      <p>An updated and enhanced free version of the Telegram feedback bot.</p>
+      <a href="https://github.com/arhkypGitProject/feedback-bot-telegram-v2-free">
+        <img src="https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <h3>📄 Basic Parser Example</h3>
       <p>A basic parsing script showcasing web scraping and data extraction techniques.</p>
       <a href="https://github.com/arhkypGitProject/basic-parser-example">
         <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <h3>☁️ Hosting Documentation</h3>
       <p>A complete guide on hosting a Python Telegram Bot without webhooks.</p>
       <a href="https://github.com/arhkypGitProject/Hosting-a-Python-Telegram-Bot-Without-Webhooks">
@@ -98,8 +105,6 @@ I started my journey in IT in 2022 and have been actively exploring new technolo
 <div align="center">
   <img src="assets/github-snake.svg" width="850" alt="GitHub Contribution Snake" style="max-width:100%;" />
 </div>
-
----
 
 <h3 align="center">📫 Let's Connect</h3>
 
