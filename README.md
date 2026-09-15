@@ -108,7 +108,7 @@ I started my journey in IT in 2022 and have been actively exploring new technolo
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/архип-данилов-23b3243ba">
+  <a href="https://www.linkedin.com/in/arkhyp-danylov-23b3243ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
