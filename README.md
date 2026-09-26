@@ -70,7 +70,14 @@ I started my journey in IT in 2022 and have been actively exploring new technolo
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
+      <h3>💬 Forum Prototype (Free)</h3>
+      <p>A prototype of a web forum application showcasing backend architecture.</p>
+      <a href="https://github.com/arhkypGitProject/Forum-Prototype-FREE">
+        <img src="https://img.shields.io/badge/View_Project-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <h3>☁️ Hosting Documentation</h3>
       <p>A complete guide on hosting a Python Telegram Bot without webhooks.</p>
       <a href="https://github.com/arhkypGitProject/Hosting-a-Python-Telegram-Bot-Without-Webhooks">
